@@ -2,8 +2,8 @@ package menu
 
 import (
 	"bufio"
-	"client/internal/apis"
 	"fmt"
+	"github.com/krasimiraMilkova/cookit/client/internal/apis"
 	"net/http"
 	"os"
 	"strconv"

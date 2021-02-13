@@ -1,8 +1,8 @@
 package menu
 
 import (
-	"client/internal/apis"
 	"fmt"
+	"github.com/krasimiraMilkova/cookit/client/internal/apis"
 	"golang.org/x/term"
 	"net/http"
 	"syscall"

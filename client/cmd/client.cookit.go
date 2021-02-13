@@ -1,8 +1,8 @@
 package main
 
 import (
-	"client/internal/menu"
 	"fmt"
+	"github.com/krasimiraMilkova/cookit/client/internal/menu"
 	"net/http"
 )
 

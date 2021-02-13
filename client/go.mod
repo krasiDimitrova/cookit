@@ -1,4 +1,4 @@
-module client
+module github.com/krasimiraMilkova/cookit/client
 
 go 1.15
 
